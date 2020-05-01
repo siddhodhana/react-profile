@@ -1,0 +1,45 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name" : "siddhodhana sakhambari polipalli",
+                "role" : "Technical skill Trainer",
+                "email" : "siddhodhanasakhambari.p@apssdc.in",
+                "mobile": "+91 9492904347"
+            },
+            "education":[
+                
+                {
+                    "degree":"B.Tech",
+                    "institution":"I completed my Graduation in the Stream of Electronics and communication Engineering in Giet college in 2016"
+                },
+                {
+                    "degree":"Intermediate",
+                    "institution":"I completed my Intermediate in 2012"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "School Study's SSC from A.P.R(G) School TUNI completed in 2010"
+                }
+            ],
+            "skill":[
+     
+                {
+                    "t":"Coding Skills",
+                    "l":"C,Python,Embedded C,Arduino Programming"
+                },
+        {
+                    "t":"Known Technologies",
+                    "l":"Embedded systems,Internet of Things"
+                },
+        {
+                    "t":"Web Technologies",
+                    "l":"Html,css,Js"
+                }  
+         
+            ]
+        }
+        
+    ]
+}
+
